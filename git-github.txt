@@ -9,3 +9,9 @@ Cria repositorio no GitHub - "repo-teste"
 git remote add origin git@github.com:Triliam/repo-teste.git
 git push -u origin main
 
+Atualizações:
+abrir gitbash na pasta "ExerciciosPy"
+git status
+git add .
+git commit -m ""
+git push
