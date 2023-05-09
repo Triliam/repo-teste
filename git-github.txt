@@ -1,0 +1,11 @@
+Cria pasta no pc - "ExerciciosPy"
+
+git init
+git branch -M main
+git commit -m "first commit"
+
+Cria repositorio no GitHub - "repo-teste"
+
+git remote add origin git@github.com:Triliam/repo-teste.git
+git push -u origin main
+
